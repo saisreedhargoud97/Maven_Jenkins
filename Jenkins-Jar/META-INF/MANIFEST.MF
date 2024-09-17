@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Jenkins-Jar
+Bundle-SymbolicName: Jenkins-Jar;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.ui
+Automatic-Module-Name: Jenkins.Jar
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
